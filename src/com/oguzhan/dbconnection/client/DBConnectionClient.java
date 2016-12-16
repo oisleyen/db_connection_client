@@ -1,3 +1,4 @@
+package com.oguzhan.dbconnection.client;
 
 import java.io.BufferedReader;
 import java.io.IOException;
